@@ -1,0 +1,9 @@
+100 Office Chair        127.95
+
+200 Office Desk         230.0
+
+300 Computer Desk    75.49
+
+400 Desk Light           25.95
+
+500 BookShelves       115.5
